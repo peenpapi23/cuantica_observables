@@ -1,8 +1,7 @@
-# Simulador Cuántico
-
+# Teoría cuántica básica, Observables y Medidas
 ## Introducción
 
-Este repositorio contiene un simulador cuántico que permite realizar ejercicios de mecánica cuántica, basados en los conceptos descritos en el libro de texto correspondiente. A continuación, se indican las instrucciones para instalar las librerías necesarias y cómo ejecutar los ejercicios.
+Este repositorio contiene un simulador cuántico que permite realizar ejercicios de mecánica cuántica, basados en los conceptos descritos en clase. A continuación, se indican las instrucciones para instalar las librerías necesarias , el contenido de cada uno de los archivos y cómo ejecutar los ejercicios.
 
 ## Requisitos
 
